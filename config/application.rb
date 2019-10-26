@@ -34,6 +34,7 @@ module Activelancer
       g.system_tests = nil
       g.stylesheets = false
       g.javascript = false
+      g.helper = false
     end
   end
 end
